@@ -249,3 +249,4 @@ npm run build
 📫 **Open to collaboration** on innovative projects and exciting opportunities.
 
 🔄 **Last Updated**: September 2025
+<!-- GitHub Pages Active -->
