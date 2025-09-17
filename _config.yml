@@ -1,0 +1,33 @@
+# GitHub Pages Configuration
+theme: jekyll-theme-minimal
+title: George McIntyre - Portfolio
+description: Full-Stack Software Engineer & Virtual Commissioning Expert | 145+ Projects
+show_downloads: false
+google_analytics:
+
+# Site settings
+author:
+  name: George McIntyre
+  email: gjdomcintyre@outlook.com
+  location: Umhlanga, South Africa
+
+# Social links
+github:
+  - GeorgeMcIntyre
+  - GeorgeMcIntyre-Web
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: Projects
+    url: /PROJECTS
+  - title: GitHub Main
+    url: https://github.com/GeorgeMcIntyre
+  - title: GitHub Web
+    url: https://github.com/GeorgeMcIntyre-Web
+
+# SEO
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
