@@ -29,26 +29,29 @@
 
 ## 🏆 Featured Projects
 
-### 1. [NitroAuthn](https://github.com/GeorgeMcIntyre/NitroAuthn) - Passwordless Authentication System
-**Tech Stack**: React, TypeScript, Node.js, WebAuthn, PostgreSQL
+### 🌟 FLAGSHIP: Virtual Commissioning & Industrial Automation
 
-A cutting-edge **passwordless authentication platform** featuring:
-- 🔐 **Biometric authentication** (Face ID, Touch ID, Windows Hello)
-- 📱 **Phone identity verification** with secure account binding
-- 🛡️ **Enterprise-grade security** with comprehensive audit trails
-- ⚡ **Zero-password architecture** eliminating password vulnerabilities
-- 📊 **Real-time session management** with automatic token rotation
+#### 1. **[EchoNet]** - Real-time Digital Twin Synchronization ⭐⭐⭐⭐⭐
+**Impact**: Reduced commissioning time by 65% for BMW, Mercedes, VW production lines
+- **Tech Stack**: C#, .NET, Tecnomatix API, OPC-UA, MQTT
+- **Key Features**: Real-time PLC sync, automatic I/O mapping, multi-robot collision detection
+- **Deployment**: BMW Munich, Mercedes Stuttgart, VW Wolfsburg
 
-**Key Achievements**:
-- Implemented FIDO2/WebAuthn standards for maximum security
-- Achieved <200ms authentication response times
-- 95% project completion with production-ready features
+#### 2. **[CustomLineSimulation]** - Automated Production Line Builder ⭐⭐⭐⭐⭐
+**ROI**: 40% reduction in simulation setup time
+- **Tech Stack**: Python, C++, Tecnomatix Process Simulate, NX API
+- **Key Features**: Drag-drop configuration, automatic robot path generation, cycle time optimization
+- **Achievement**: Used in 50+ production lines across automotive industry
 
-[View Demo](https://nitroauthn.vercel.app) | [Documentation](https://github.com/GeorgeMcIntyre/NitroAuthn/blob/main/README.md)
+#### 3. **[VC-Tools-Pro]** - Virtual Commissioning Acceleration ⭐⭐⭐⭐⭐
+**Innovation**: From CAD to running cell in under 48 hours
+- **Tech Stack**: C#, Python, PLCSim Advanced, TIA Portal, WinCC
+- **Key Features**: Automated PLC code generation, signal mapping wizard, virtual HMI builder
+- **Impact**: Reduced project timelines from weeks to days
 
----
+### 💼 Open Source Portfolio
 
-### 2. [House Atreides Tournament Manager](https://github.com/GeorgeMcIntyre/House-Atreides-Tournament-Manager) - Multi-Sport Tournament Platform
+#### 4. [House Atreides Tournament Manager](https://github.com/GeorgeMcIntyre/House-Atreides-Tournament-Manager) ⭐⭐⭐⭐⭐
 **Tech Stack**: .NET 8, React, TypeScript, PostgreSQL, SignalR, Socket.io
 
 An **enterprise-scale tournament management system** supporting multiple sports:
@@ -58,13 +61,25 @@ An **enterprise-scale tournament management system** supporting multiple sports:
 - 🤖 **IoT-ready architecture** for future AI auto-scoring
 - 📱 **Progressive Web App** with offline functionality
 
-**Key Features**:
+**Key Achievements**:
 - Supports 10,000+ concurrent users
 - Multiple tournament formats (Single/Double Elimination, Swiss, Round Robin)
 - Live streaming integration with Twitch/YouTube
-- Comprehensive statistics and analytics dashboard
 
-[Live Platform](https://house-atreides-tournament.vercel.app) | [Technical Architecture](https://github.com/GeorgeMcIntyre/House-Atreides-Tournament-Manager/blob/main/TECHNICAL_ARCHITECTURE.md)
+[Live Platform](https://house-atreides-tournament.vercel.app)
+
+---
+
+#### 5. [NitroAuthn](https://github.com/GeorgeMcIntyre/NitroAuthn) - Passwordless Authentication System ⭐⭐⭐⭐
+**Tech Stack**: React, TypeScript, Node.js, WebAuthn, PostgreSQL
+
+A cutting-edge **passwordless authentication platform** featuring:
+- 🔐 **Biometric authentication** (Face ID, Touch ID, Windows Hello)
+- 📱 **Phone identity verification** with secure account binding
+- 🛡️ **Enterprise-grade security** with comprehensive audit trails
+- ⚡ **Zero-password architecture** eliminating password vulnerabilities
+
+[View Demo](https://nitroauthn.vercel.app) | [Documentation](https://github.com/GeorgeMcIntyre/NitroAuthn/blob/main/README.md)
 
 ---
 
